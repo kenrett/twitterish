@@ -17,7 +17,7 @@
 /tmp
 
 # Ignore RubyMine Files
-/.idea
+/.idea/*
 
 # Ignore Spring files.
 /spring/*.pid
